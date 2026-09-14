@@ -1,5 +1,5 @@
 locals {
-  idapp = "apellido" # Apellido
+  idapp = "btorres" # btorres
 }
 
 terraform {
